@@ -1,6 +1,6 @@
 package feb.Task;
 
-public class task005 {
+public class task005_FactorialNumber {
     public static void main(String[] args) {
         int n = 5;
         int fact = 1;

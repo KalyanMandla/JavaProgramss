@@ -2,7 +2,7 @@ package feb.Task;
 
 import java.util.Scanner;
 
-public class task008 {
+public class task008_TriangleClassifier {
     public static void main(String[] args) {
         // Triangle Classifier
         // Write a program that classifies a triangle based on its side lengths.

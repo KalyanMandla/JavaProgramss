@@ -1,6 +1,6 @@
 package feb.Task;
 
-public class task006 {
+public class task006_PrimeNumbers {
     public static void main(String[] args) {
         System.out.println("Prime numbers from 1 to 100:");
 

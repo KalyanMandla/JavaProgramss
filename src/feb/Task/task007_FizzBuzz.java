@@ -2,7 +2,7 @@ package feb.Task;
 
 import java.util.Scanner;
 
-public class task007 {
+public class task007_FizzBuzz {
     public static void main(String[] args) {
         //FizzBuzz Problem
         // Write a program that prints numbers from 1 to n(100).
